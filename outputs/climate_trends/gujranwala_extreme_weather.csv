@@ -1,0 +1,25 @@
+location,year,heat_days,extreme_rainfall_days,hot_percentile_days,heavy_rain_percentile_days
+"Gujranwala, Punjab, Pakistan",2001,68,0,33,2
+"Gujranwala, Punjab, Pakistan",2002,118,0,83,3
+"Gujranwala, Punjab, Pakistan",2003,67,1,38,4
+"Gujranwala, Punjab, Pakistan",2004,92,0,41,3
+"Gujranwala, Punjab, Pakistan",2005,68,1,28,3
+"Gujranwala, Punjab, Pakistan",2006,68,1,41,7
+"Gujranwala, Punjab, Pakistan",2007,63,2,26,3
+"Gujranwala, Punjab, Pakistan",2008,49,2,15,6
+"Gujranwala, Punjab, Pakistan",2009,88,0,54,0
+"Gujranwala, Punjab, Pakistan",2010,82,1,47,4
+"Gujranwala, Punjab, Pakistan",2011,64,0,38,2
+"Gujranwala, Punjab, Pakistan",2012,74,0,44,2
+"Gujranwala, Punjab, Pakistan",2013,56,0,39,3
+"Gujranwala, Punjab, Pakistan",2014,82,3,39,5
+"Gujranwala, Punjab, Pakistan",2015,61,0,29,5
+"Gujranwala, Punjab, Pakistan",2016,72,1,39,5
+"Gujranwala, Punjab, Pakistan",2017,61,0,29,3
+"Gujranwala, Punjab, Pakistan",2018,58,2,35,2
+"Gujranwala, Punjab, Pakistan",2019,61,0,37,4
+"Gujranwala, Punjab, Pakistan",2020,41,4,22,7
+"Gujranwala, Punjab, Pakistan",2021,49,3,26,7
+"Gujranwala, Punjab, Pakistan",2022,65,1,40,7
+"Gujranwala, Punjab, Pakistan",2023,24,4,11,12
+"Gujranwala, Punjab, Pakistan",2024,63,2,43,7

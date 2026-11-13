@@ -1,0 +1,29 @@
+
+CLIMATEADAPTAI - DATA QUALITY REPORT
+====================================
+
+Dataset: Gujrat, Punjab, Pakistan
+Source: NASA POWER Daily API
+Study Period: 2001-2024
+
+Total Records: 8766
+
+DATA QUALITY CHECKS
+-------------------
+
+Duplicate Dates: 0
+Missing Values: 0
+Invalid Dates: 0
+Invalid Temperature Records: 0
+Invalid Precipitation Records: 0
+Non-OK Quality Flags: 0
+
+Expected Records: 8766
+
+Record Count Check: PASS
+
+Overall Status: CHECKS PASSED
+
+Note:
+This report identifies potential data quality issues.
+It does not modify the original dataset.

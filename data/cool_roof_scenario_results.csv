@@ -1,0 +1,5 @@
+total_roof_area_m2,cool_roof_coverage_percentage,cool_roof_area_m2,conventional_roof_area_m2
+1000.0,25,250.0,750.0
+1000.0,50,500.0,500.0
+1000.0,75,750.0,250.0
+1000.0,100,1000.0,0.0

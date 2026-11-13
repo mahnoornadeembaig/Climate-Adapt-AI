@@ -1,0 +1,25 @@
+location,year,heat_days,extreme_rainfall_days,hot_percentile_days,heavy_rain_percentile_days
+"Gujrat, Punjab, Pakistan",2001,54,0,34,2
+"Gujrat, Punjab, Pakistan",2002,116,0,87,2
+"Gujrat, Punjab, Pakistan",2003,63,3,39,8
+"Gujrat, Punjab, Pakistan",2004,81,1,39,1
+"Gujrat, Punjab, Pakistan",2005,54,1,25,2
+"Gujrat, Punjab, Pakistan",2006,65,2,44,7
+"Gujrat, Punjab, Pakistan",2007,53,1,22,4
+"Gujrat, Punjab, Pakistan",2008,43,1,17,4
+"Gujrat, Punjab, Pakistan",2009,79,0,54,0
+"Gujrat, Punjab, Pakistan",2010,75,2,44,7
+"Gujrat, Punjab, Pakistan",2011,56,0,37,3
+"Gujrat, Punjab, Pakistan",2012,64,1,44,2
+"Gujrat, Punjab, Pakistan",2013,53,0,39,3
+"Gujrat, Punjab, Pakistan",2014,66,3,43,5
+"Gujrat, Punjab, Pakistan",2015,50,1,28,7
+"Gujrat, Punjab, Pakistan",2016,62,1,42,5
+"Gujrat, Punjab, Pakistan",2017,53,1,32,7
+"Gujrat, Punjab, Pakistan",2018,54,1,35,2
+"Gujrat, Punjab, Pakistan",2019,55,0,38,3
+"Gujrat, Punjab, Pakistan",2020,30,2,14,11
+"Gujrat, Punjab, Pakistan",2021,40,2,25,8
+"Gujrat, Punjab, Pakistan",2022,58,2,40,13
+"Gujrat, Punjab, Pakistan",2023,19,3,9,7
+"Gujrat, Punjab, Pakistan",2024,58,1,44,7

@@ -1,0 +1,6 @@
+location,hot_day_threshold_90_c,heavy_rain_threshold_95_mm,total_heat_days_40c_or_more,total_extreme_rain_days_50mm_or_more,total_hot_percentile_days,total_heavy_rain_percentile_days
+"Gujranwala, Punjab, Pakistan",42.545,27.498499999999993,1594,28,877,106
+"Gujrat, Punjab, Pakistan",41.98,30.662,1401,29,875,120
+"Islamabad, Pakistan",39.56,33.532499999999985,766,51,876,121
+"Lahore, Punjab, Pakistan",42.96,27.156999999999925,1837,22,874,96
+"Rawalpindi, Punjab, Pakistan",39.56,33.532499999999985,766,51,876,121

@@ -1,0 +1,61 @@
+location,month,years_available,avg_tmax_c,avg_tmin_c,avg_tmean_c,avg_monthly_rainfall_mm
+"Gujranwala, Punjab, Pakistan",1,24,20.27,6.65,12.27,31.11
+"Gujranwala, Punjab, Pakistan",2,24,23.85,9.3,15.59,34.84
+"Gujranwala, Punjab, Pakistan",3,24,29.98,14.48,21.54,42.42
+"Gujranwala, Punjab, Pakistan",4,24,36.38,19.97,27.86,26.95
+"Gujranwala, Punjab, Pakistan",5,24,41.82,25.82,33.93,21.61
+"Gujranwala, Punjab, Pakistan",6,24,42.65,29.28,36.22,79.49
+"Gujranwala, Punjab, Pakistan",7,24,38.61,28.57,33.65,232.6
+"Gujranwala, Punjab, Pakistan",8,24,36.08,26.69,31.35,178.37
+"Gujranwala, Punjab, Pakistan",9,24,35.1,23.88,29.3,94.63
+"Gujranwala, Punjab, Pakistan",10,24,32.79,18.87,25.16,19.04
+"Gujranwala, Punjab, Pakistan",11,24,27.52,13.45,19.33,9.11
+"Gujranwala, Punjab, Pakistan",12,24,22.58,8.69,14.3,12.11
+"Gujrat, Punjab, Pakistan",1,24,20.07,7.74,12.81,41.53
+"Gujrat, Punjab, Pakistan",2,24,23.3,10.1,15.84,47.6
+"Gujrat, Punjab, Pakistan",3,24,29.2,14.72,21.4,56.56
+"Gujrat, Punjab, Pakistan",4,24,35.49,19.78,27.42,39.16
+"Gujrat, Punjab, Pakistan",5,24,41.13,25.21,33.4,28.77
+"Gujrat, Punjab, Pakistan",6,24,42.21,28.67,35.78,81.3
+"Gujrat, Punjab, Pakistan",7,24,38.06,27.98,33.23,264.66
+"Gujrat, Punjab, Pakistan",8,24,35.21,26.24,30.87,204.49
+"Gujrat, Punjab, Pakistan",9,24,34.39,23.69,28.96,96.64
+"Gujrat, Punjab, Pakistan",10,24,32.27,19.16,25.02,23.14
+"Gujrat, Punjab, Pakistan",11,24,27.31,14.36,19.63,12.94
+"Gujrat, Punjab, Pakistan",12,24,22.44,9.94,14.89,17.44
+"Islamabad, Pakistan",1,24,18.0,5.87,10.79,47.9
+"Islamabad, Pakistan",2,24,20.41,7.74,13.23,98.89
+"Islamabad, Pakistan",3,24,25.55,12.25,18.34,91.54
+"Islamabad, Pakistan",4,24,31.45,17.04,23.98,60.74
+"Islamabad, Pakistan",5,24,37.56,22.26,29.93,60.07
+"Islamabad, Pakistan",6,24,39.95,26.27,33.35,114.46
+"Islamabad, Pakistan",7,24,36.35,26.37,31.46,266.3
+"Islamabad, Pakistan",8,24,33.79,24.9,29.39,201.32
+"Islamabad, Pakistan",9,24,32.59,22.2,27.3,95.43
+"Islamabad, Pakistan",10,24,30.12,17.09,22.98,33.17
+"Islamabad, Pakistan",11,24,25.02,12.1,17.36,22.06
+"Islamabad, Pakistan",12,24,20.57,8.07,12.95,28.77
+"Lahore, Punjab, Pakistan",1,24,20.57,6.47,12.41,24.78
+"Lahore, Punjab, Pakistan",2,24,24.42,9.22,15.92,27.32
+"Lahore, Punjab, Pakistan",3,24,30.68,14.66,22.07,33.88
+"Lahore, Punjab, Pakistan",4,24,37.03,20.43,28.49,20.17
+"Lahore, Punjab, Pakistan",5,24,42.19,26.34,34.42,19.07
+"Lahore, Punjab, Pakistan",6,24,42.9,29.82,36.62,74.91
+"Lahore, Punjab, Pakistan",7,24,39.28,29.17,34.29,185.35
+"Lahore, Punjab, Pakistan",8,24,37.25,27.37,32.24,143.08
+"Lahore, Punjab, Pakistan",9,24,36.05,24.42,30.04,85.7
+"Lahore, Punjab, Pakistan",10,24,33.56,19.36,25.85,15.51
+"Lahore, Punjab, Pakistan",11,24,27.94,13.65,19.74,7.93
+"Lahore, Punjab, Pakistan",12,24,22.87,8.62,14.51,8.87
+"Rawalpindi, Punjab, Pakistan",1,24,18.0,5.87,10.79,47.9
+"Rawalpindi, Punjab, Pakistan",2,24,20.41,7.74,13.23,98.89
+"Rawalpindi, Punjab, Pakistan",3,24,25.55,12.25,18.34,91.54
+"Rawalpindi, Punjab, Pakistan",4,24,31.45,17.04,23.98,60.74
+"Rawalpindi, Punjab, Pakistan",5,24,37.56,22.26,29.93,60.07
+"Rawalpindi, Punjab, Pakistan",6,24,39.95,26.27,33.35,114.46
+"Rawalpindi, Punjab, Pakistan",7,24,36.35,26.37,31.46,266.3
+"Rawalpindi, Punjab, Pakistan",8,24,33.79,24.9,29.39,201.32
+"Rawalpindi, Punjab, Pakistan",9,24,32.59,22.2,27.3,95.43
+"Rawalpindi, Punjab, Pakistan",10,24,30.12,17.09,22.98,33.17
+"Rawalpindi, Punjab, Pakistan",11,24,25.02,12.1,17.36,22.06
+"Rawalpindi, Punjab, Pakistan",12,24,20.57,8.07,12.95,28.77

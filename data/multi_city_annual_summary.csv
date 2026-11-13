@@ -1,0 +1,121 @@
+location,year,days,avg_tmax_c,avg_tmin_c,avg_tmean_c,annual_rainfall_mm,days_tmax_35c_or_above
+"Gujranwala, Punjab, Pakistan",2001,365,33.85,18.93,25.84,576.01,192
+"Gujranwala, Punjab, Pakistan",2002,365,34.76,19.83,26.75,410.62,195
+"Gujranwala, Punjab, Pakistan",2003,365,32.57,18.71,25.09,750.5,161
+"Gujranwala, Punjab, Pakistan",2004,366,33.93,19.68,26.32,545.98,195
+"Gujranwala, Punjab, Pakistan",2005,365,32.29,18.62,24.97,643.92,168
+"Gujranwala, Punjab, Pakistan",2006,365,32.24,19.18,25.25,871.49,131
+"Gujranwala, Punjab, Pakistan",2007,365,32.36,18.97,25.14,743.67,176
+"Gujranwala, Punjab, Pakistan",2008,366,32.03,18.62,24.84,896.56,137
+"Gujranwala, Punjab, Pakistan",2009,365,33.64,19.35,26.05,438.36,180
+"Gujranwala, Punjab, Pakistan",2010,365,32.9,19.43,25.67,761.73,138
+"Gujranwala, Punjab, Pakistan",2011,365,32.14,18.83,25.06,671.83,128
+"Gujranwala, Punjab, Pakistan",2012,366,32.5,18.57,24.94,537.13,164
+"Gujranwala, Punjab, Pakistan",2013,365,32.19,18.55,24.81,762.68,149
+"Gujranwala, Punjab, Pakistan",2014,365,32.06,18.36,24.64,769.92,133
+"Gujranwala, Punjab, Pakistan",2015,365,32.23,18.7,24.95,710.51,170
+"Gujranwala, Punjab, Pakistan",2016,366,33.48,19.59,26.01,718.07,167
+"Gujranwala, Punjab, Pakistan",2017,365,32.72,19.02,25.33,761.4,191
+"Gujranwala, Punjab, Pakistan",2018,365,32.69,18.83,25.24,757.13,166
+"Gujranwala, Punjab, Pakistan",2019,365,31.16,18.4,24.38,850.1,150
+"Gujranwala, Punjab, Pakistan",2020,366,29.85,17.73,23.27,1167.73,101
+"Gujranwala, Punjab, Pakistan",2021,365,31.4,18.53,24.46,1003.82,125
+"Gujranwala, Punjab, Pakistan",2022,365,31.44,18.99,24.66,1069.79,118
+"Gujranwala, Punjab, Pakistan",2023,365,30.02,18.09,23.57,1318.84,77
+"Gujranwala, Punjab, Pakistan",2024,366,31.51,18.73,24.61,1037.01,104
+"Gujrat, Punjab, Pakistan",2001,365,33.45,18.98,25.71,645.8,176
+"Gujrat, Punjab, Pakistan",2002,365,34.32,19.8,26.63,478.46,181
+"Gujrat, Punjab, Pakistan",2003,365,31.84,18.69,24.86,969.83,140
+"Gujrat, Punjab, Pakistan",2004,366,33.44,19.68,26.17,611.71,188
+"Gujrat, Punjab, Pakistan",2005,365,31.97,18.78,24.96,641.02,164
+"Gujrat, Punjab, Pakistan",2006,365,31.72,19.35,25.16,1009.91,114
+"Gujrat, Punjab, Pakistan",2007,365,31.7,19.05,24.95,909.24,152
+"Gujrat, Punjab, Pakistan",2008,366,31.6,18.81,24.82,956.26,123
+"Gujrat, Punjab, Pakistan",2009,365,33.22,19.43,25.93,497.51,176
+"Gujrat, Punjab, Pakistan",2010,365,32.23,19.4,25.45,984.14,128
+"Gujrat, Punjab, Pakistan",2011,365,31.77,18.89,24.95,726.58,115
+"Gujrat, Punjab, Pakistan",2012,366,32.14,18.72,24.94,634.9,154
+"Gujrat, Punjab, Pakistan",2013,365,31.78,18.93,24.86,815.74,124
+"Gujrat, Punjab, Pakistan",2014,365,31.76,18.71,24.75,827.56,131
+"Gujrat, Punjab, Pakistan",2015,365,31.7,18.92,24.85,878.04,157
+"Gujrat, Punjab, Pakistan",2016,366,32.98,19.82,25.96,875.61,140
+"Gujrat, Punjab, Pakistan",2017,365,32.01,19.2,25.16,976.11,162
+"Gujrat, Punjab, Pakistan",2018,365,31.98,19.02,25.07,909.21,133
+"Gujrat, Punjab, Pakistan",2019,365,30.42,18.52,24.16,1031.49,130
+"Gujrat, Punjab, Pakistan",2020,366,29.09,18.0,23.1,1395.41,84
+"Gujrat, Punjab, Pakistan",2021,365,30.79,18.84,24.38,1206.74,106
+"Gujrat, Punjab, Pakistan",2022,365,30.64,19.16,24.49,1375.99,109
+"Gujrat, Punjab, Pakistan",2023,365,29.44,18.4,23.53,1389.17,64
+"Gujrat, Punjab, Pakistan",2024,366,30.88,18.95,24.5,1195.06,95
+"Islamabad, Pakistan",2001,365,32.04,17.35,24.11,422.01,167
+"Islamabad, Pakistan",2002,365,32.29,17.72,24.5,423.05,152
+"Islamabad, Pakistan",2003,365,29.88,16.72,22.76,794.35,111
+"Islamabad, Pakistan",2004,366,31.68,18.01,24.38,475.0,169
+"Islamabad, Pakistan",2005,365,29.14,16.36,22.32,840.89,115
+"Islamabad, Pakistan",2006,365,29.34,17.03,22.74,1117.49,80
+"Islamabad, Pakistan",2007,365,28.82,16.72,22.37,1127.96,83
+"Islamabad, Pakistan",2008,366,29.26,16.72,22.52,1038.81,70
+"Islamabad, Pakistan",2009,365,30.38,16.98,23.19,646.94,120
+"Islamabad, Pakistan",2010,365,30.19,17.43,23.31,937.93,96
+"Islamabad, Pakistan",2011,365,29.53,16.74,22.64,823.2,90
+"Islamabad, Pakistan",2012,366,28.98,16.15,22.04,833.8,98
+"Islamabad, Pakistan",2013,365,28.83,16.65,22.2,990.53,74
+"Islamabad, Pakistan",2014,365,29.0,16.64,22.28,889.54,82
+"Islamabad, Pakistan",2015,365,28.76,16.84,22.33,1127.14,82
+"Islamabad, Pakistan",2016,366,30.45,17.98,23.71,929.19,99
+"Islamabad, Pakistan",2017,365,29.76,17.33,23.11,913.51,103
+"Islamabad, Pakistan",2018,365,29.78,17.04,22.81,899.26,76
+"Islamabad, Pakistan",2019,365,28.14,16.39,21.83,1027.01,89
+"Islamabad, Pakistan",2020,366,25.72,15.61,20.39,3829.18,16
+"Islamabad, Pakistan",2021,365,27.91,16.46,21.73,1920.54,72
+"Islamabad, Pakistan",2022,365,28.04,16.79,22.03,1678.04,67
+"Islamabad, Pakistan",2023,365,27.19,16.65,21.53,1387.46,32
+"Islamabad, Pakistan",2024,366,28.46,16.98,22.23,1822.61,71
+"Lahore, Punjab, Pakistan",2001,365,34.31,19.37,26.37,474.74,199
+"Lahore, Punjab, Pakistan",2002,365,35.2,20.16,27.19,331.81,204
+"Lahore, Punjab, Pakistan",2003,365,33.37,19.19,25.76,535.02,181
+"Lahore, Punjab, Pakistan",2004,366,34.5,20.05,26.85,457.3,201
+"Lahore, Punjab, Pakistan",2005,365,32.65,18.83,25.28,605.72,171
+"Lahore, Punjab, Pakistan",2006,365,32.86,19.49,25.72,724.5,157
+"Lahore, Punjab, Pakistan",2007,365,33.21,19.49,25.85,554.63,195
+"Lahore, Punjab, Pakistan",2008,366,32.61,18.87,25.28,774.78,160
+"Lahore, Punjab, Pakistan",2009,365,34.04,19.61,26.43,383.52,184
+"Lahore, Punjab, Pakistan",2010,365,33.67,19.78,26.25,549.37,179
+"Lahore, Punjab, Pakistan",2011,365,32.66,19.2,25.53,585.38,152
+"Lahore, Punjab, Pakistan",2012,366,32.88,18.79,25.31,442.56,170
+"Lahore, Punjab, Pakistan",2013,365,32.74,18.87,25.3,666.89,170
+"Lahore, Punjab, Pakistan",2014,365,32.36,18.57,24.99,671.03,137
+"Lahore, Punjab, Pakistan",2015,365,32.67,18.97,25.37,580.68,173
+"Lahore, Punjab, Pakistan",2016,366,34.01,19.88,26.56,560.99,182
+"Lahore, Punjab, Pakistan",2017,365,33.36,19.44,25.93,581.7,202
+"Lahore, Punjab, Pakistan",2018,365,33.24,19.12,25.73,622.74,174
+"Lahore, Punjab, Pakistan",2019,365,31.78,18.7,24.86,716.76,169
+"Lahore, Punjab, Pakistan",2020,366,30.65,18.03,23.88,991.68,123
+"Lahore, Punjab, Pakistan",2021,365,32.12,18.84,25.04,799.82,141
+"Lahore, Punjab, Pakistan",2022,365,32.32,19.32,25.29,830.91,135
+"Lahore, Punjab, Pakistan",2023,365,30.71,18.38,24.08,1202.75,95
+"Lahore, Punjab, Pakistan",2024,366,32.28,19.16,25.24,872.19,130
+"Rawalpindi, Punjab, Pakistan",2001,365,32.04,17.35,24.11,422.01,167
+"Rawalpindi, Punjab, Pakistan",2002,365,32.29,17.72,24.5,423.05,152
+"Rawalpindi, Punjab, Pakistan",2003,365,29.88,16.72,22.76,794.35,111
+"Rawalpindi, Punjab, Pakistan",2004,366,31.68,18.01,24.38,475.0,169
+"Rawalpindi, Punjab, Pakistan",2005,365,29.14,16.36,22.32,840.89,115
+"Rawalpindi, Punjab, Pakistan",2006,365,29.34,17.03,22.74,1117.49,80
+"Rawalpindi, Punjab, Pakistan",2007,365,28.82,16.72,22.37,1127.96,83
+"Rawalpindi, Punjab, Pakistan",2008,366,29.26,16.72,22.52,1038.81,70
+"Rawalpindi, Punjab, Pakistan",2009,365,30.38,16.98,23.19,646.94,120
+"Rawalpindi, Punjab, Pakistan",2010,365,30.19,17.43,23.31,937.93,96
+"Rawalpindi, Punjab, Pakistan",2011,365,29.53,16.74,22.64,823.2,90
+"Rawalpindi, Punjab, Pakistan",2012,366,28.98,16.15,22.04,833.8,98
+"Rawalpindi, Punjab, Pakistan",2013,365,28.83,16.65,22.2,990.53,74
+"Rawalpindi, Punjab, Pakistan",2014,365,29.0,16.64,22.28,889.54,82
+"Rawalpindi, Punjab, Pakistan",2015,365,28.76,16.84,22.33,1127.14,82
+"Rawalpindi, Punjab, Pakistan",2016,366,30.45,17.98,23.71,929.19,99
+"Rawalpindi, Punjab, Pakistan",2017,365,29.76,17.33,23.11,913.51,103
+"Rawalpindi, Punjab, Pakistan",2018,365,29.78,17.04,22.81,899.26,76
+"Rawalpindi, Punjab, Pakistan",2019,365,28.14,16.39,21.83,1027.01,89
+"Rawalpindi, Punjab, Pakistan",2020,366,25.72,15.61,20.39,3829.18,16
+"Rawalpindi, Punjab, Pakistan",2021,365,27.91,16.46,21.73,1920.54,72
+"Rawalpindi, Punjab, Pakistan",2022,365,28.04,16.79,22.03,1678.04,67
+"Rawalpindi, Punjab, Pakistan",2023,365,27.19,16.65,21.53,1387.46,32
+"Rawalpindi, Punjab, Pakistan",2024,366,28.46,16.98,22.23,1822.61,71
